@@ -1,0 +1,20 @@
+{
+    "name": "mongodb_atlas",
+    "version": "1.0.0",
+    "description": "use npm i",
+    "main": "index.js",
+    "scripts": {
+        "server": "nodemon server.js",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.10.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.2"
+    }
+}
